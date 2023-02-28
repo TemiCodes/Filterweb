@@ -1,0 +1,8 @@
+#hm{
+    size: 50px;
+    font-family: 'Courier New', Courier, monospace;
+}
+canvas{
+    box-shadow: 10px 10px 10px gray;
+    border-radius: 20px;
+}
